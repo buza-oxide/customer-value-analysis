@@ -1,18 +1,18 @@
 # Decoding Customer Value: SQL-Driven Customer Segmentation & Promotional Analysis
 
 ## Overview
-This project analyzes approximately 3,900 customer records to understand customer value, repeat-purchase behavior, and promotional dependency. The workflow combines Python-based data cleaning and preprocessing, SQL-driven customer segmentation, and an interactive Power BI dashboard.
+This project analyzes approximately 3,900 customer records to understand customer value, repeat-purchase behavior and promotional dependency. The workflow combines Python-based data cleaning and preprocessing, SQL-driven customer segmentation and an interactive Power BI dashboard.
 
 ## Objectives
 - Clean and prepare customer data for reliable analysis using Python.
 - Segment customers into High, Medium, and Low value tiers using SQL.
 - Examine purchase frequency and customer value patterns.
 - Compare repeat-purchase behavior across promotional and non-promotional purchases.
-- Visualize customer value, geographic demand, promotional trends, and category-level purchasing behavior through Power BI.
+- Visualize customer value, geographic demand, promotional trends and category-level purchasing behavior through Power BI.
 
 ## Tools & Technologies
 - **Python (Pandas):** Data cleaning and preprocessing.
-- **SQL:** Customer segmentation, purchase behavior analysis, and analytical queries.
+- **SQL:** Customer segmentation, purchase behavior analysis and analytical queries.
 - **Power BI:** Interactive dashboard development and data visualization.
 
 ## Project Workflow
@@ -21,7 +21,7 @@ This project analyzes approximately 3,900 customer records to understand custome
 Used Python and Pandas to prepare the customer dataset for analysis.
 
 ### 2. Customer Segmentation & SQL Analysis
-Analyzed approximately 3,900 customer records and grouped customers into High, Medium, and Low value tiers. Examined purchase frequency, customer value, and promotional behavior.
+Analyzed approximately 3,900 customer records and grouped customers into High, Medium and Low value tiers. Examined purchase frequency, customer value and promotional behavior.
 
 ### 3. Dashboard Development
 Built a four-panel Power BI dashboard covering:
