@@ -24,12 +24,14 @@ Used Python and Pandas to prepare the customer dataset for analysis.
 Analyzed approximately 3,900 customer records and grouped customers into High, Medium and Low value tiers. Examined purchase frequency, customer value and promotional behavior.
 
 ### 3. Dashboard Development
+![Customer Retention & Promotional Intelligence Dashboard](Dashboard.jpeg)
+
 Built a four-panel Power BI dashboard covering:
 - Customer value segmentation
 - Geographic demand
 - Promotional trends
 - Category-level purchasing behavior
-![Customer Retention & Promotional Intelligence Dashboard](Dashboard.jpeg)
+
 ## Key Findings
 - Identified approximately 980 High Value customers, averaging around 40 prior purchases.
 - Observed similar repeat-purchase behavior with and without discounts, suggesting that customer loyalty was not primarily promotion-driven.
