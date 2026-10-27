@@ -29,7 +29,7 @@ Built a four-panel Power BI dashboard covering:
 - Geographic demand
 - Promotional trends
 - Category-level purchasing behavior
-
+![Customer Retention & Promotional Intelligence Dashboard](Dashboard.jpeg)
 ## Key Findings
 - Identified approximately 980 High Value customers, averaging around 40 prior purchases.
 - Observed similar repeat-purchase behavior with and without discounts, suggesting that customer loyalty was not primarily promotion-driven.
